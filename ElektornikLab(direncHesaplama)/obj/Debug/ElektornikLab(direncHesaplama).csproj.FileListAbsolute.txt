@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\bin\Debug\ElektornikLab(direncHesaplama).exe.config
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\bin\Debug\ElektornikLab(direncHesaplama).exe
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\bin\Debug\ElektornikLab(direncHesaplama).pdb
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).csprojAssemblyReference.cache
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab_direncHesaplama_.Form1.resources
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab_direncHesaplama_.Properties.Resources.resources
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).csproj.GenerateResource.cache
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).exe
+C:\Users\user\source\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).pdb
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\bin\Debug\ElektornikLab(direncHesaplama).exe.config
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\bin\Debug\ElektornikLab(direncHesaplama).exe
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\bin\Debug\ElektornikLab(direncHesaplama).pdb
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).csprojAssemblyReference.cache
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab_direncHesaplama_.Form1.resources
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab_direncHesaplama_.Properties.Resources.resources
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).csproj.GenerateResource.cache
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).csproj.CoreCompileInputs.cache
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).exe
+D:\İş ve Çalışmalar\Projelerim\dotNET\source 03.11.2019\repos\ElektornikLab(direncHesaplama)\ElektornikLab(direncHesaplama)\obj\Debug\ElektornikLab(direncHesaplama).pdb
